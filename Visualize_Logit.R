@@ -1,6 +1,5 @@
 setwd("/Users/Adam/Dropbox/Cars.com/Results")
 # takes analysis, outcomes from Logit_Regression_Analysis
-# scroll to the bottom! http://www.ats.ucla.edu/stat/r/dae/logit.htm
 
 # Additions
   # Automatic export
